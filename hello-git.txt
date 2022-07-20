@@ -1,2 +1,2 @@
 Learn how to use git, this is the first step to this new world.
-Hello git !
+Hello git ! And do a little change to familiarize yourself with git's commands.
